@@ -1,0 +1,10 @@
+.completed {
+  text-decoration: line-through;
+}
+.container {
+  margin: 100px 0 0 0;
+}
+
+.container .list {
+  margin: 40px 20px;
+}
